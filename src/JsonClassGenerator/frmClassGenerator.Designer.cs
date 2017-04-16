@@ -64,7 +64,7 @@
             this.chkSingleFile = new System.Windows.Forms.CheckBox();
             this.btnAbout = new System.Windows.Forms.Button();
             this.lblDone = new System.Windows.Forms.Label();
-            this.lnkOpenFolder = new Xamasoft.Controls.BetterLinkLabel();
+            this.lnkOpenFolder = new System.Windows.Forms.LinkLabel();
             this.messageTimer = new System.Windows.Forms.Timer(this.components);
             this.button1 = new System.Windows.Forms.Button();
             this.lblDoneClipboard = new System.Windows.Forms.Label();
@@ -585,7 +585,7 @@
         private System.Windows.Forms.Label lblLanguage;
         private System.Windows.Forms.CheckBox chkSingleFile;
         private System.Windows.Forms.Label lblDone;
-        private Xamasoft.Controls.BetterLinkLabel lnkOpenFolder;
+        private System.Windows.Forms.LinkLabel lnkOpenFolder;
         private System.Windows.Forms.Timer messageTimer;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label lblDoneClipboard;

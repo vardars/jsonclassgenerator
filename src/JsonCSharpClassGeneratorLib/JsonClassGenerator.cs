@@ -2,12 +2,12 @@
 
 using System;
 using System.Collections.Generic;
+using System.Data.Entity.Design.PluralizationServices;
 using System.Linq;
 using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.IO;
-using System.Data.Entity.Design.PluralizationServices;
 using System.Globalization;
 using Xamasoft.JsonClassGenerator.CodeWriters;
 

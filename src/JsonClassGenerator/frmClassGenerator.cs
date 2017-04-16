@@ -3,7 +3,6 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Diagnostics;
 using System.Drawing;
 using System.IO;
@@ -18,10 +17,6 @@ namespace Xamasoft.JsonClassGenerator.UI
 {
     public partial class frmCSharpClassGeneration : Form
     {
-
-
-
-
         public frmCSharpClassGeneration()
         {
             InitializeComponent();
