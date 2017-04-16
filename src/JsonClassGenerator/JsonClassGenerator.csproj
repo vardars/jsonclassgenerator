@@ -148,7 +148,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="JsonCSharpClassGeneratorLib\JsonClassGeneratorLib.csproj">
+    <ProjectReference Include="..\JsonCSharpClassGeneratorLib\JsonClassGeneratorLib.csproj">
       <Project>{7bef7eaa-de37-40fb-bd33-3def0685031f}</Project>
       <Name>JsonClassGeneratorLib</Name>
     </ProjectReference>
